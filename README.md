@@ -4,7 +4,7 @@ Sovereign, quantum-resistant, zero-SaaS secret sync CLI tool.
                               <mark>basicly encript any txt file<mark/>
 
 ## Philosophy
--**safe storage** you can save your password on any public space and no one would be able to decrypt or read it except with your key.
+-**safe storage:** you can save your password on any public space and no one would be able to decrypt or read it except with your key.
 - **Zero-SaaS:** No third-party servers holding your keys.
 - **Quantum-Resistant:** Uses Godly 512-byte keyfiles combined with Argon2id and AES-256-GCM.
 - **License:** GNU General Public License v3.0 (GPLv3).
