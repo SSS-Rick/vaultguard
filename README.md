@@ -1,7 +1,7 @@
 # VaultGuard (`vaultguard`)
 
 Sovereign, quantum-resistant, zero-SaaS secret sync CLI tool.
-                              ==basicly encript any txt file==
+                              <mark>basicly encript any txt file<mark/>
 
 ## Philosophy
 - **Zero-SaaS:** No third-party servers holding your keys.
